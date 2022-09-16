@@ -1,1 +1,1 @@
-#Introduction to Machine Learning course on Kaggle
+#Introduction to Machine Learning on Kaggle
